@@ -24,5 +24,6 @@
     "*.sql": "jinja-sql"
   },
   "dbt.profilesDirOverride": "/workspace",
-  "dbt.versionCheck": "neither"
+  "dbt.versionCheck": "neither",
+  "dbt.queryLimit": 500
 }
